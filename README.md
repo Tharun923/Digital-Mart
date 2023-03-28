@@ -1,2 +1,1 @@
-# Digital-Mart
-Digital markets
+## Starting Repo for MERN Stack - The Complete Guide
